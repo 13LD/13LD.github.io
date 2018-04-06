@@ -4,47 +4,7 @@ $(document).ready(function(){
 		$('.ui.timeline.modal')
 		.modal('show');
 	});
-	// Project 1 Modal
-	$(".ui.project1.button").click(function(){
-		$('.ui.project1.modal')
-		.modal('show');
-	});
 
-	// Project 2 Modal
-	$(".ui.project2.button").click(function(){
-		$('.ui.project2.modal')
-		.modal('show');
-	});
-
-	// Project 3 Modal
-	$(".ui.project3.button").click(function(){
-		$('.ui.project3.modal')
-		.modal('show');
-	});
-
-	// Project 4 Modal
-	$(".ui.project4.button").click(function(){
-		$('.ui.project4.modal')
-		.modal('show');
-	});
-
-	// Project 5 Modal
-	$(".ui.project5.button").click(function(){
-		$('.ui.project5.modal')
-		.modal('show');
-	});
-
-	// Project 6 Modal
-	$(".ui.project6.button").click(function(){
-		$('.ui.project6.modal')
-		.modal('show');
-	});
-
-	// Project 7 Modal
-	$(".ui.project7.button").click(function(){
-		$('.ui.project7.modal')
-		.modal('show');
-	});
 
 	//Hides navbar when landing segment is visible -- Shows navbar when scroll past landing segment
 	$('.ui.inverted.masthead.segment')
