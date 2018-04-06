@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80efe981-2b09-4890-8a94-5476cd7234e4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+            <state relative-caret-position="608">
+              <caret line="111" column="30" lean-forward="true" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -128,12 +138,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522796745979</updated>
       <workItem from="1522796748101" duration="5753000" />
-      <workItem from="1523028761575" duration="1860000" />
+      <workItem from="1523028761575" duration="2055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7613000" />
+    <option name="totallyTimeSpent" value="7808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="154" y="63" width="1400" height="983" extended-state="0" />
@@ -193,18 +203,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="608">
+          <caret line="111" column="30" lean-forward="true" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="79" column="16" lean-forward="false" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
