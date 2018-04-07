@@ -34,71 +34,7 @@ $(document).ready(function(){
 			setTimeout(function(){ $('.icons_popup').transition('fade out'); }, 3000);
 		}
 	});
-	
-	$("div.extra a div.music_1.ui.label").click(function(){
-		if($(".music_1a.item").attr("id") != "hide"){
-			$(".music_1a.item").attr("id", "hide");
-    		$(".music_1b.item").removeAttr("id").transition('pulse');
-		} else{
-			$(".music_1b.item").attr("id", "hide");
-    		$(".music_1a.item").removeAttr("id").transition('pulse');
-		}
-	});
-	$("div.extra a div.music_2.ui.label").click(function(){
-		if($(".music_2a.item").attr("id") != "hide"){
-			$(".music_2a.item").attr("id", "hide");
-    		$(".music_2b.item").removeAttr("id").transition('pulse');
-		} else{
-			$(".music_2b.item").attr("id", "hide");
-    		$(".music_2a.item").removeAttr("id").transition('pulse');
-		}
-	});
-	$("div.extra a div.music_3.ui.label").click(function(){
-		if($(".music_3a.item").attr("id") != "hide"){
-			$(".music_3a.item").attr("id", "hide");
-    		$(".music_3b.item").removeAttr("id").transition('pulse');
-		} else{
-			$(".music_3b.item").attr("id", "hide");
-    		$(".music_3a.item").removeAttr("id").transition('pulse');
-		}
-	});
 
-	$("div.extra a div.tele_1.ui.label").click(function(){
-		if($(".tele_1a.image").attr("id") != "hide"){
-			$(".tele_1a.image").attr("id", "hide");
-    		$(".tele_1b.image").removeAttr("id").transition('jiggle');
-		} else{
-			$(".tele_1b.image").attr("id", "hide");
-    		$(".tele_1a.image").removeAttr("id").transition('jiggle');
-		}
-	});
-	$("div.extra a div.tele_2.ui.label").click(function(){
-		if($(".tele_2a.image").attr("id") != "hide"){
-			$(".tele_2a.image").attr("id", "hide");
-    		$(".tele_2b.image").removeAttr("id").transition('jiggle');
-		} else{
-			$(".tele_2b.image").attr("id", "hide");
-    		$(".tele_2a.image").removeAttr("id").transition('jiggle');
-		}
-	});
-	$("div.extra a div.tele_3.ui.label").click(function(){
-		if($(".tele_3a.image").attr("id") != "hide"){
-			$(".tele_3a.image").attr("id", "hide");
-    		$(".tele_3b.image").removeAttr("id").transition('jiggle');
-		} else{
-			$(".tele_3b.image").attr("id", "hide");
-    		$(".tele_3a.image").removeAttr("id").transition('jiggle');
-		}
-	});
-	$("div.extra a div.tele_4.ui.label").click(function(){
-		if($(".tele_4a.image").attr("id") != "hide"){
-			$(".tele_4a.image").attr("id", "hide");
-    		$(".tele_4b.image").removeAttr("id").transition('jiggle');
-		} else{
-			$(".tele_4b.image").attr("id", "hide");
-    		$(".tele_4a.image").removeAttr("id").transition('jiggle');
-		}
-	});
 	
 	// contact modal logic
 	$('.contact.button').click(function(){
