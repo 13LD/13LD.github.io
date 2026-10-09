@@ -29,7 +29,7 @@ These topics appear in visible, CV-backed content and relevant page metadata. Th
 ## After publishing to GitHub Pages
 
 1. Confirm the public address is `https://13ld.github.io/`. If using a custom domain, update the canonical URL, social URLs, JSON-LD identifiers, `robots.txt`, and `sitemap.xml` together.
-2. Add the site as a URL-prefix property in [Google Search Console](https://search.google.com/search-console) and verify ownership using the method offered for your setup.
+2. Add the site as a URL-prefix property in [Google Search Console](https://search.google.com/search-console). The supplied HTML verification file is `googlebc71257735c9854f.html`; confirm it is available at `https://13ld.github.io/googlebc71257735c9854f.html`, then click **Verify**. Keep the file in the repository after verification succeeds so Google can continue checking ownership.
 3. Submit `https://13ld.github.io/sitemap.xml`, then inspect the homepage and request indexing.
 4. Link to the portfolio from your LinkedIn and GitHub profiles. Use consistent wording for your name and engineering specialties.
 5. Review Search Console queries and indexing after a few weeks. Refine descriptions with accurate projects and outcomes as experience changes.
