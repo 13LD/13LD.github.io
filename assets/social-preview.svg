@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fafaf8"/>
+  <circle cx="87" cy="88" r="5" fill="#9b5424"/>
+  <text x="104" y="94" fill="#9b5424" font-family="Menlo, monospace" font-size="20">13ld.github.io</text>
+  <text x="80" y="260" fill="#242321" font-family="Helvetica, Arial, sans-serif" font-size="76" font-weight="600" letter-spacing="-3">Dmytro Lysohor</text>
+  <text x="83" y="310" fill="#9b5424" font-family="Menlo, monospace" font-size="20" letter-spacing="2">SENIOR SOFTWARE ENGINEER</text>
+  <text x="83" y="388" fill="#57544e" font-family="Helvetica, Arial, sans-serif" font-size="29">Agentic AI · Python · Ruby</text>
+  <text x="83" y="432" fill="#57544e" font-family="Helvetica, Arial, sans-serif" font-size="26">Enterprise integrations · Product engineering</text>
+  <line x1="83" x2="1117" y1="492" y2="492" stroke="#dfdcd4"/>
+  <text x="83" y="545" fill="#706c64" font-family="Menlo, monospace" font-size="20">9+ years of experience</text>
+  <text x="1117" y="545" text-anchor="end" fill="#706c64" font-family="Menlo, monospace" font-size="20">Madrid, Spain</text>
+</svg>
