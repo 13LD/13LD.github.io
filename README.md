@@ -13,6 +13,7 @@ Open http://127.0.0.1:4173. The design uses a readable single column, warm neutr
 ## Content
 
 - Edit biography, work, experience, contact links, and JSON-LD profile data in `index.html`.
+- After editing `stylesheets/main.css`, update its `?v=` value in `index.html` (the first 12 characters of the stylesheet’s SHA-256 hash) so visitors request the new CSS rather than a cached earlier version.
 - The experience and results are based on `Dmytro Lysohor_CV.pdf`, supplied in October 2026. The positioning and job preferences also reflect the LinkedIn headline and preferences supplied for this redesign. `lysohor_cv.pdf` contains the updated résumé. Replace it when the résumé changes.
 - Update `assets/social-preview.svg` and regenerate `assets/social-preview.png` when the headline or positioning changes. Keep the PNG at 1200 × 630 pixels.
 - Legacy image assets remain in the repository but are no longer loaded by the page.
